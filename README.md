@@ -22,6 +22,8 @@ cd iBOTS-Intro-to-Python-for-Scientists
 
 ```sh
 conda create -n calim python=3.12
+conda activate calim
+pip install numpy tifffile matplotlib scipy scikit-image pyocclient oasis-deconv
 ```
 
 - [Spiketime Analysis with Numpy and Matplotlib](day1/01.%20Spiketime%20Analysis%20with%20Numpy%20and%20Matplotlib.ipynb)
