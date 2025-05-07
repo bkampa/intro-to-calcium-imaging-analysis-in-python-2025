@@ -13,7 +13,6 @@ Main Teacher: Dr. Sangeetha Nandakumar
 
 ```sh
 git clone https://github.com/ibehave-ibots/iBOTS-Intro-to-Python-for-Scientists.git
-cd iBOTS-Intro-to-Python-for-Scientists
 ```
 
 ## Topics
