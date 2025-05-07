@@ -12,7 +12,7 @@ Main Teacher: Dr. Sangeetha Nandakumar
 ## Get materials onto your local machine
 
 ```sh
-git clone https://github.com/ibehave-ibots/iBOTS-Intro-to-Python-for-Scientists.git
+git clone https://github.com/ibehave-ibots/intro-to-calcium-imaging-analysis-in-python-2025.git
 ```
 
 ## Topics
