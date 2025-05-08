@@ -1,0 +1,23 @@
+[project]
+authors = ["Nicholas A. Del Grosso <delgrosso.nick@gmail.com>"]
+channels = ["conda-forge"]
+description = "Add a short description here"
+name = "intro-to-calcium-imaging-analysis-in-python-2025"
+platforms = ["win-64"]
+version = "0.1.0"
+
+[tasks]
+
+[dependencies]
+python = "3.12.*"
+pip = ">=25.1.1,<26"
+
+[pypi-dependencies]
+numpy = ">=2.2.5, <3"
+tifffile = ">=2025.3.30, <2026"
+matplotlib = ">=3.10.1, <4"
+scipy = ">=1.15.2, <2"
+scikit-image = ">=0.25.2, <0.26"
+pyocclient = ">=0.6, <0.7"
+oasis-deconv = ">=0.2.1, <0.3"
+ipykernel = ">=6.29.5, <7"

@@ -4,3 +4,6 @@ day1/02. Single-Pixel Fluorescence in Calcium Imaging (solved).ipynb
 day1/03. Spike Inference From Calcium Traces (solved).ipynb
 day2/
 day3/
+# pixi environments
+.pixi
+*.egg-info
