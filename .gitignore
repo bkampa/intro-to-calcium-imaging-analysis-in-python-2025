@@ -3,7 +3,6 @@ pixi.lock
 
 
 data/
-day2/07. Automate Cell Segmentation with scikit-image (solved).ipynb
 day2/demo2.ipynb
 day2/napari_demo.ipynb
 day2/rois.npy
