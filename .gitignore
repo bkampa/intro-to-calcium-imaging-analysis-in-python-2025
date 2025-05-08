@@ -1,9 +1,12 @@
-data/
-day1/01. Spiketime Analysis with Numpy and Matplotlib (solved).ipynb
-day1/02. Single-Pixel Fluorescence in Calcium Imaging (solved).ipynb
-day1/03. Spike Inference From Calcium Traces (solved).ipynb
-day2/
-day3/
-# pixi environments
 .pixi
-*.egg-info
+pixi.lock
+
+
+data/
+day2/05. Multi-Pixel Data Extraction to 1D Calcium Trace (solved).ipynb
+day2/06. Multi-Cell Manual ROI Selection in Napari (solved).ipynb
+day2/07. Automate Cell Segmentation with scikit-image (solved).ipynb
+day2/demo2.ipynb
+day2/napari_demo.ipynb
+day2/rois.npy
+day3/
